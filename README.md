@@ -52,10 +52,6 @@ pkg install -forge symbolic
 
 After installation, run the two demo files in the root directory. Enjoy!
 
-
-## Library Installation
-This depends on the CMake prefix you set by ```-DCMAKE_INSTALL_PREFIX=path_to_your_install```. The standard path is ```/usr/local```. Use ```make install``` to install the headers and libraries along with ```CMake``` and ```pkgconfig``` files.
-
 ## C++ Version
 Please refer to https://github.com/zarathustr/LibQPEP
 
