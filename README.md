@@ -35,7 +35,7 @@ Core Contributors: **Xiangcheng Hu** (https://github.com/JokerJohn), **Ming Liu*
 
 
 # Usage
-The Octave is fully open-source by the GNU. The Octave Codes depends only on ```Forge``` packages and ```Python3``` packages. 
+The Octave is fully open-source by the GNU. The Octave Codes depend only on ```Forge``` packages and ```Python3``` packages. 
 
 On terminal, intall ```Python3``` packages:
 ```
