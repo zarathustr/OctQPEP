@@ -37,7 +37,7 @@ Core Contributors: **Xiangcheng Hu** (https://github.com/JokerJohn), **Ming Liu*
 # Usage
 The Octave is fully open-source by the GNU. The Octave Codes depend only on ```Forge``` packages and ```Python3``` packages. 
 
-On terminal, intall ```Python3``` packages:
+On terminal, install ```Python3``` packages:
 ```
 # Only SymPy 1.5.1 is working for Octave
 pip3 install sympy==1.5.1
